@@ -53,6 +53,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 ## Resources
 
 - [libghostty API Reference](https://libghostty.tip.ghostty.org/index.html) - API reference documentation for libghostty.
+- [libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming) - Announcement post introducing libghostty and its direction.
 
 ## Contributing
 
